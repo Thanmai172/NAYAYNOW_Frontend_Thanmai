@@ -37,9 +37,8 @@ NayayNow/
 
 
 ---
-## NayayNow – Justice Made Easy
-NayayNow is a modern legal services landing page that brings justice closer to everyone. Designed with accessibility and simplicity in mind, this webpage allows users to easily file RTIs, complaints, and send SOS alerts from their devices.
 
+##  Page Sections
 
 - **Hero Section:** A bold call to action with legal tagline and CTA button  
 - **Feature Cards:** Visually appealing icons and descriptions of services  

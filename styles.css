@@ -104,6 +104,13 @@ nav a:hover {
   color: var(--primary);
 }
 
+.icon {
+  width: 24px;
+  height: 24px;
+  vertical-align: middle;
+  margin-right: 0.5rem;
+}
+
 /* Features */
 .features {
   padding: 3rem 2rem;
@@ -176,10 +183,5 @@ footer {
   .card-container { grid-template-columns: 1fr; }
 }
 
-.icon {
-  width: 24px;
-  height: 24px;
-  vertical-align: middle;
-  margin-right: 0.5rem;
-}
+
 

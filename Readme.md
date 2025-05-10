@@ -1,4 +1,4 @@
-# ⚖️ NayayNow – Justice Made Easy
+#  NayayNow – Justice Made Easy
 
 NayayNow is a responsive and modern web landing page aimed at making justice accessible to everyone. It provides features like RTI filing, online complaint registration, SOS alerts, and government reply tracking—all in a sleek, user-friendly interface.
 

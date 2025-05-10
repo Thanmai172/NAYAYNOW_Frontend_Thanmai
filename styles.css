@@ -175,3 +175,11 @@ footer {
   .hero-box { padding: 1.5rem; }
   .card-container { grid-template-columns: 1fr; }
 }
+
+.icon {
+  width: 24px;
+  height: 24px;
+  vertical-align: middle;
+  margin-right: 0.5rem;
+}
+
